@@ -6,13 +6,20 @@ body{
     cursor: pointer;
 }
 
-h1{
+body{
     color: rgb(15, 99, 99);
-    transition: color .5s ease-in-out;
+   
 }
 
 .clicked{
     color: #cf6b0e;
 }
-    
 
+.form
+.greetings {
+    display: none;
+}s
+
+.showing{
+    display: block;
+}

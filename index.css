@@ -1,6 +1,18 @@
 body{
-    background-color:darkblue;
+    background-color:rgb(62, 211, 99);
 }
+
+.btn{
+    cursor: pointer;
+}
+
 h1{
-    color: cyan;
+    color: rgb(15, 99, 99);
+    transition: color .5s ease-in-out;
 }
+
+.clicked{
+    color: #cf6b0e;
+}
+    
+
